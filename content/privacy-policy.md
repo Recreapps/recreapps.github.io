@@ -1,3 +1,7 @@
+---
+title: Privacy Policy
+layout: document
+---
 # Privacy Policy for Bouncin' Ball
 
 Thank you for choosing to play Bouncin' Ball. This Privacy Policy outlines the information that we may collect from you and how we will use it. By using our game, you are consenting to the terms of this Privacy Policy.
